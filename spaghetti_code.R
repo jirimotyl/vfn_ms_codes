@@ -1,3 +1,7 @@
+#Short code for creating spaghetti plots of EDSS longitudinal lines (each patient = one line)
+##(c) Jiří Motýl (jiri.motyl@vfn.cz)
+##2022-10-15
+
 getwd()
 
 #packages needed
